@@ -1,0 +1,127 @@
+.container{
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    position:fixed;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    gap:880px;
+    
+}
+.child1{
+    display:flex;
+    gap:20px
+}
+h2{
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    color: white;
+}
+h5{
+    position: absolute;
+    top: 85%;
+    left: 40%;
+    color: white;
+}
+
+#content{
+    margin-left: 280px;
+    margin-right: 200px;
+}
+.container2{
+    margin: 50px;
+    display:flex;
+    justify-content: center;
+    
+
+}
+.child-1{
+    margin-left: 40px;
+}
+.child-2{
+    margin-left: 100px;
+}
+.child-3{
+    margin-left: 100px;
+}
+
+.container3{
+    height: 900px;
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+#head{
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+}
+.soldout{
+    background-color: white;
+    width: 750px;
+    margin-left: 250px;
+    
+}
+.soldout1{
+    margin-left: 10px;
+    width:130px ;
+    display: flex;
+    justify-content: space-between;
+
+}
+.soldout2{
+    margin-left: 10px;
+    width:120px ;
+    display: flex;
+    justify-content: space-between;
+}
+.soldout3{
+    margin-left: 10px;
+   display: flex;
+   justify-content: flex-start; 
+   justify-content: space-between;
+}
+.tickets{
+    
+    width: 750px;
+    margin-left: 250px;
+    padding-top: 20px;
+    display: flex;
+}
+.tickets1{
+    background-color: white;
+    
+}
+.tickets2{
+    background-color: white;
+    margin-left: 20px;
+}
+.tickets3{
+    background-color: white;
+    margin-left: 20px;
+}
+.tickets1-1{
+    margin: 15px;
+}
+button{
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+.container4{
+    width: 750px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    gap: 150px;
+}
+.details{
+    font-size: 20px;
+}
+image{
+    margin-bottom: 40px;
+}
