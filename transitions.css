@@ -28,5 +28,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: all 3sec ease;
+    transition: all 3sec ease;
 }
