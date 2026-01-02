@@ -1,0 +1,83 @@
+.container{
+    margin-left: 300px;
+}
+
+.one:nth-child(odd){
+  background-color:burlywood;
+}
+.two:nth-child(even){
+  background-color: burlywood;
+}.three:nth-child(odd){
+  background-color: burlywood;
+}.four:nth-child(even){
+  background-color:burlywood;
+}.five:nth-child(odd){
+  background-color:burlywood;
+}.six:nth-child(even){
+  background-color:burlywood;
+}.seven:nth-child(odd){
+  background-color:burlywood;
+}.Eight:nth-child(even){
+  background-color: burlywood;
+}
+.one{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+.two{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+.three{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}.four{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}.five{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}.six{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}.seven{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}.Eight{
+    border: 2px solid;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+.row1{
+display: flex;
+}
+.row2{
+display: flex;
+}.row3{
+display: flex;
+}.row4{
+display: flex;
+}.row5{
+display: flex;
+}.row6{
+display: flex;
+}.row7{
+display: flex;
+}.row8{
+display: flex;
+}
